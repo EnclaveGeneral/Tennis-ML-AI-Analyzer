@@ -1,3 +1,6 @@
+import torch
+import torchvision
+
 from ultralytics import YOLO
 
 model = YOLO('yolov8x')
