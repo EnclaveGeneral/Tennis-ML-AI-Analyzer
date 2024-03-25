@@ -1,5 +1,0 @@
-names:
-- tennis-ball
-nc: 1
-train: tennis-ball-1/train/images
-val: tennis-ball-1/valid/images
